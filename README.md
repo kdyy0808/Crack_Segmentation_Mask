@@ -1,7 +1,8 @@
 # Crack_Segmentation_Mask
 
 ## requirement
-
+- opencv
+- python == 3.9
 ```
 conda install -c conda-forge opencv=4.5.5
 
