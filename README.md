@@ -23,5 +23,5 @@ python3 optiimize_masking_img.py
 
 
 s : Save   
-n : Don't processing 
+n : Don't processing   
 q : Quit program
