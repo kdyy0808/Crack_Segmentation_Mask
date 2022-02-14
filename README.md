@@ -14,7 +14,7 @@ conda install -c conda-forge opencv=4.5.5
 ```
 git clone https://github.com/kdyy0808/Crack_Segmentation_Mask.git
 cd Crack_Segmentation_Mask
-python3 
+python3 optiimize_masking_img.py
 ```
 
 
