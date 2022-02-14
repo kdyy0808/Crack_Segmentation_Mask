@@ -22,5 +22,6 @@ python3 optiimize_masking_img.py
 ![image](https://user-images.githubusercontent.com/40755420/153803440-af3ede7a-177b-43cf-bb5c-0827aee54989.png)
 
 
-S : Save   
-N : Don't processing 
+s : Save   
+n : Don't processing 
+q : Quit program
